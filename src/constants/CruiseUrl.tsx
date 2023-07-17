@@ -1,0 +1,1 @@
+export const CRUISE_URL: string = 'https://www.gmrt.org/services/GmrtCruises.php'
